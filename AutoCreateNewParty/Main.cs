@@ -4,22 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaleWorlds.Core;
-using TaleWorlds.Localization;
 using TaleWorlds.MountAndBlade;
 using TaleWorlds.CampaignSystem;
 using HarmonyLib;
-using TaleWorlds.CampaignSystem.SandBox.GameComponents.Party;
-using TaleWorlds.CampaignSystem.SandBox.CampaignBehaviors;
-using TaleWorlds.CampaignSystem.SandBox.GameComponents;
-using TaleWorlds.CampaignSystem.SandBox.CampaignBehaviors.AiBehaviors;
-using TaleWorlds.CampaignSystem.Siege;
-using TaleWorlds.CampaignSystem.Actions;
-using TaleWorlds.CampaignSystem.SandBox.GameComponents.Map;
-using TaleWorlds.CampaignSystem.ViewModelCollection.Craft.WeaponDesign;
-using System.Collections.ObjectModel;
 using TaleWorlds.Library;
-using TaleWorlds.Engine;
-using Newtonsoft.Json;
+using TaleWorlds.CampaignSystem.Party;
+using TaleWorlds.CampaignSystem.CampaignBehaviors;
+using TaleWorlds.CampaignSystem.GameComponents;
+using TaleWorlds.CampaignSystem.Actions;
 
 namespace AutoCreateNewParty
 {
