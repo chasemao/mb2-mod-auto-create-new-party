@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCreateNewParty", "MultiChoiceDuringBuildingNewParty\AutoCreateNewParty.csproj", "{54857FF0-3908-4E60-950C-E48D50FB4C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54857FF0-3908-4E60-950C-E48D50FB4C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54857FF0-3908-4E60-950C-E48D50FB4C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54857FF0-3908-4E60-950C-E48D50FB4C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54857FF0-3908-4E60-950C-E48D50FB4C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA062E25-A918-47D0-97D0-268C06A46895}
+	EndGlobalSection
+EndGlobal
